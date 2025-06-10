@@ -1,5 +1,0 @@
-yellowstorm_final_site/
-├── index.html
-└── images/
-    ├── logo.png
-    └── background.png
